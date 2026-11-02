@@ -45,6 +45,14 @@ Atribut utama `Logic`: `score`, `gameOver`, `pipes` (`ArrayList<Pipe>`), `gameLo
 
 Video dan gambar program yang dijalankan ada di folder [`Dokumentasi`](./Dokumentasi).
 
-| Main Menu | Gameplay | Game Over |
-|---|---|---|
-| ![menu](Dokumentasi/menu.png) | ![play](Dokumentasi/gameplay.png) | ![over](Dokumentasi/gameover.png) |
+Start
+<img width="440" height="820" alt="startflappybird" src="https://github.com/user-attachments/assets/e8d7641c-0ad2-4dc2-85b0-c2c602c6dcdb" />
+
+Game
+<img width="437" height="827" alt="gameflappybird" src="https://github.com/user-attachments/assets/f4c545cd-ecdb-40c2-8595-f61c76780dac" />
+
+Game Over
+<img width="437" height="827" alt="endfllappybird" src="https://github.com/user-attachments/assets/8cb3a7ee-b39e-4c5c-a08b-1331d40c180e" />
+
+
+
