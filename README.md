@@ -1,3 +1,5 @@
+
+
 # TP6DPBO2526C2
 
 ## Janji
@@ -44,6 +46,7 @@ Atribut utama `Logic`: `score`, `gameOver`, `pipes` (`ArrayList<Pipe>`), `gameLo
 ## Dokumentasi
 
 Video dan gambar program yang dijalankan ada di folder [`Dokumentasi`](./Dokumentasi).
+Vid terlalu besar untuk ditaro disini
 
 Start
 <img width="440" height="820" alt="startflappybird" src="https://github.com/user-attachments/assets/e8d7641c-0ad2-4dc2-85b0-c2c602c6dcdb" />
