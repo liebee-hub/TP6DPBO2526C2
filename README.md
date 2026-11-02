@@ -1,7 +1,7 @@
 # TP6DPBO2526C2
 
 ## Janji
-Saya mengerjakan Tugas Praktikum 6 DPBO dengan jujur dan tanpa melakukan kecurangan.
+Saya Refan Maher Aysel dengan NIM 2509129 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
 
@@ -40,18 +40,6 @@ Atribut utama `Logic`: `score`, `gameOver`, `pipes` (`ArrayList<Pipe>`), `gameLo
 - [x] Skor +1 tiap melewati pipa
 - [x] Main Menu (Mulai dan Keluar)
 - [x] Bonus: BGM dan sound effect (flap, point, hit)
-
-## Cara Menjalankan
-
-```bash
-cd FlappyBird
-mkdir out
-javac -d out src/*.java
-cp -r src/assets out/
-java -cp out App
-```
-
-Atau buka folder `FlappyBird` di IntelliJ IDEA, tandai `src` sebagai **Sources Root**, lalu jalankan `App.java`.
 
 ## Dokumentasi
 
